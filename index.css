@@ -1,0 +1,35 @@
+body {
+  background-color: black;
+}
+#result {
+  height: 2.5rem;
+  width: 18rem;
+  margin: 10px -10px 5px 18px;
+  font-size: 2rem;
+  background-color: rgb(236, 230, 155);
+}
+.calc {
+  text-align: center;
+  margin: 10rem 35rem 10rem 35rem;
+  background-color: rgb(56, 54, 54);
+  height: 23rem;
+  width: 22%;
+  border-radius: 10px;
+  border: 10px solid rgb(240, 208, 148);
+  padding: 10px;
+}
+#btn1 {
+  margin: 7px 7px 15px 5px;
+  height: 2.5rem;
+  width: 3.5rem;
+  border-radius: 0.7rem;
+  background-color: red;
+  font-size: 1.2rem;
+}
+#btn {
+  height: 2.5rem;
+  width: 3.5rem;
+  border-radius: 0.7rem;
+  margin: 7px 7px 15px 5px;
+  font-size: 1.2rem;
+}
